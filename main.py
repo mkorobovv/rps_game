@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 import mediapipe as mp
-from config import *
-from utils import *
+from settings.config import *
+from settings.utils import *
 import random
 import time
 
